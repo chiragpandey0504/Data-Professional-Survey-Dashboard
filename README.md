@@ -6,7 +6,7 @@
 
 ## 📝 Data
 
-- **`data/Power-BI-Final-Project.xlsx`**  
+- **`Power-BI-Final-Project.xlsx`**  
   Raw survey export with columns:
   - `RespondentID`  
   - `Country`, `Age`, `Gender`, `Ethnicity`  
