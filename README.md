@@ -14,7 +14,7 @@
   - `Salary`  
   - `Happiness_WorkLifeBalance`, `Happiness_Salary`  
 
-The PBIX file applies simple transformations (splitting multi-select languages, computing averages, etc.) in Power Query.
+Data cleaning was done in Power Query.
 
 ---
 
@@ -23,7 +23,6 @@ The PBIX file applies simple transformations (splitting multi-select languages, 
 1. Download **`data/Survey_dash.pbix`** and **`data/Power-BI-Final-Project.xlsx`**  
 2. Open the PBIX in Power BI Desktop.  
 3. Click **Refresh** to pull in the raw data.  
-4. Use slicers for **Country**, **Role**, **Programming Language**, and **Ethnicity**.
 
 ---
 
